@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+    <LinearLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="40dp"
+        tools:context=".thiru_53">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textSize="18dp"
+            style="@style/TextAppearance.AppCompat.Button"
+            android:textStyle="bold"
+            android:text="@string/fivethirty"/>
+
+        <TextView
+            style="@style/TextAppearance.AppCompat.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:padding="15dp"
+            android:textStyle="bold"
+            android:text="@string/fivetwenty_521"
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="82dp"/>
+        <TextView
+            style="@style/TextAppearance.AppCompat.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:padding="15dp"
+            android:textStyle="bold"
+            android:text="@string/fivetwenty_522"
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="82dp"/>
+
+        <TextView
+            style="@style/TextAppearance.AppCompat.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:padding="15dp"
+            android:textStyle="bold"
+            android:text="@string/fivetwenty_523"
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="82dp"/>
+
+        <TextView
+            style="@style/TextAppearance.AppCompat.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:padding="15dp"
+            android:textStyle="bold"
+            android:text="@string/fivetwenty_524"
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="82dp"/>
+
+        <TextView
+            style="@style/TextAppearance.AppCompat.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:padding="15dp"
+            android:textStyle="bold"
+            android:text="@string/fivetwenty_525"
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="82dp"/>
+
+        <TextView
+            style="@style/TextAppearance.AppCompat.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:padding="15dp"
+            android:textStyle="bold"
+            android:text="@string/fivetwenty_526"
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="82dp"/>
+        <TextView
+            style="@style/TextAppearance.AppCompat.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:padding="15dp"
+            android:textStyle="bold"
+            android:text="@string/fivetwenty_527"
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="82dp"/>
+        <TextView
+            style="@style/TextAppearance.AppCompat.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:padding="15dp"
+            android:textStyle="bold"
+            android:text="@string/fivetwenty_528"
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="82dp"/>
+
+        <TextView
+            style="@style/TextAppearance.AppCompat.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:padding="15dp"
+            android:textStyle="bold"
+            android:text="@string/fivetwenty_529"
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="82dp"/>
+
+        <TextView
+            style="@style/TextAppearance.AppCompat.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:padding="15dp"
+            android:textStyle="bold"
+            android:text="@string/fivetwenty_530"
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="82dp"/>
+
+    </LinearLayout>
+</ScrollView>
